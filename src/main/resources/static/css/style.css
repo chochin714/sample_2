@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body{text-align:center;}
+.wrapper{
+	border:solid;
+	margin:0 auto;
+	width:700px;
+}
+.require{color:red;}
